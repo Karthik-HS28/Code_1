@@ -5,6 +5,7 @@ int main()
 {
     int choice, a, b;
     
+    
     while (1) {
         printf("\nSimple Calculator:\n");
         printf("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Exit\n");
